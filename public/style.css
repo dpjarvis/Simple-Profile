@@ -129,15 +129,15 @@ Main Components
   line-height: 1.8;
 }
 .cd-section:nth-of-type(2) .cd-half-block:first-of-type {
-  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fimg-1.jpg?1556147211511");
+  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2FIMG-0520.JPG?1556148468856");
   background-size: cover;
 }
 .cd-section:nth-of-type(3) .cd-half-block:first-of-type {
-  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fimg-2.jpg?1556147211789");
+  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2FIMG-0543.JPG?1556148469238");
   background-size: cover;
 }
 .cd-section:nth-of-type(4) .cd-half-block:first-of-type {
-  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fimg-3.jpg?1556147211857");
+  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2FIMG-0545.JPG?1556148469021");
   background-size: cover;
 }
 @media only screen and (min-width: 1170px) {
