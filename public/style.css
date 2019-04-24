@@ -129,15 +129,15 @@ Main Components
   line-height: 1.8;
 }
 .cd-section:nth-of-type(2) .cd-half-block:first-of-type {
-  background-image: url("../img/img-1.jpg");
+  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fimg-1.jpg?1556147211511");
   background-size: cover;
 }
 .cd-section:nth-of-type(3) .cd-half-block:first-of-type {
-  background-image: url("../img/img-2.jpg");
+  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fimg-2.jpg?1556147211789");
   background-size: cover;
 }
 .cd-section:nth-of-type(4) .cd-half-block:first-of-type {
-  background-image: url("../img/img-3.jpg");
+  background-image: url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fimg-3.jpg?1556147211857");
   background-size: cover;
 }
 @media only screen and (min-width: 1170px) {
@@ -201,7 +201,7 @@ Main Components
   overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
-  background: transparent url(../img/cd-icon-arrow.svg) no-repeat center center;
+  background: transparent url("https://cdn.glitch.com/5c4d530d-5b47-4dd2-ae00-0837e3bee068%2Fcd-icon-arrow.svg?1556147210920") no-repeat center center;
   -webkit-transition: opacity 0.2s 0s, visibility 0.2s 0s;
   -moz-transition: opacity 0.2s 0s, visibility 0.2s 0s;
   transition: opacity 0.2s 0s, visibility 0.2s 0s;
