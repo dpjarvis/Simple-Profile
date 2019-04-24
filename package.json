@@ -12,7 +12,10 @@
   "dependencies": {
     "express": "^4.16.4",
     "canvas": "^2.4.1",
-    "googleapis": "^39.2.0"
+    "googleapis": "^39.2.0",
+    "modernizr": "^3.7.1",
+    "gulp": "^4.0.1",
+    "yepnope": "^1.1.0"
   },
   "engines": {
     "node": "8.x"
