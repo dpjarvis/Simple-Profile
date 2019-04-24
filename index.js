@@ -20,10 +20,6 @@ context = canvas.getContext('2d'),
 stars = 600,
 colorrange = [0,60,240];
 for (var i = 0; i < stars; i++) {
- 
-  var radius;
-  var hue;
-  var sat;
 	var x = Math.random() * canvas.offsetWidth;
 	var y = Math.random() * canvas.offsetHeight,
 	radius = Math.random() * 1.2,
